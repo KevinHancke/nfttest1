@@ -1,0 +1,55 @@
+{
+  "name": "Hashlips Sample Demo #7",
+  "symbol": "YC",
+  "description": "Haslips sample NFT implemtation by theKev0dev",
+  "seller_fee_basis_points": 1000,
+  "image": "7.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 7,
+  "creator": "theKev0dev courtesy of hashlips sample images",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5ZgQ7PuhumsAxUpFm7EXgSHw7yNb9fRcErxqxzX4351W",
+        "share": 100
+      }
+    ]
+  }
+}

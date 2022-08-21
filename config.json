@@ -1,0 +1,24 @@
+{
+    "price": 0.5,
+    "number": 30,
+    "symbol": "YC",
+    "sellerFeeBasisPoints": 1000,
+    "gatekeeper": null,
+    "solTreasuryAccount": "5ZgQ7PuhumsAxUpFm7EXgSHw7yNb9fRcErxqxzX4351W",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "2022-07-24T00:00:00Z",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "uploadMethod": "bundlr",
+    "awsS3Bucket": null,
+    "retainAuthority": true,
+    "isMutable": true,
+    "creators": [
+    {
+      "address": "5ZgQ7PuhumsAxUpFm7EXgSHw7yNb9fRcErxqxzX4351W",
+      "share": 100
+    }
+  ]
+}
